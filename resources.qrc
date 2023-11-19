@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>monster-8bit-pet-21.svg</file>
+    <file>image.png</file>
+    <file>dragon.jpg</file>
+  </qresource>
+</RCC>

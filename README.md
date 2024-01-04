@@ -1,1 +1,1 @@
-# Habitica-like-projet
+# Habitica-like-project
